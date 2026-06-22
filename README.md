@@ -5,6 +5,21 @@
   <img src="https://img.shields.io/badge/⚡_Доступен_для_заказов-Свяжитесь_со_мной-00C853?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 
+<p align="center">
+  <a href="https://t.me/shulanskij">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://vk.com/id1021388682">
+    <img src="https://img.shields.io/badge/ВКонтакте-4680C2?style=for-the-badge&logo=vk&logoColor=white"/>
+  </a>
+  <a href="tel:+79241216337">
+    <img src="https://img.shields.io/badge/MAX_Мессенджер-FF6C37?style=for-the-badge&logo=message&logoColor=white"/>
+  </a>
+  <a href="https://kwork.ru/user/freizenlost">
+    <img src="https://img.shields.io/badge/Kwork-FF6C37?style=for-the-badge&logo=kwork&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ### 🚀 О себе
@@ -47,19 +62,6 @@
 
 ---
 
-### 📫 Как связаться
-
-<p align="left">
-  <a href="https://t.me/shulanskij">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://kwork.ru/user/freizenlost">
-    <img src="https://img.shields.io/badge/Kwork-FF6C37?style=for-the-badge&logo=kwork&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### 📊 Статистика
 
 <p align="left">
@@ -68,7 +70,7 @@
 </p>
 
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=andrey-shulianskii94.andrey-shulianskii94" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andrey-shulianskii94.andrey-shulianskii94"/>
 </p>
 
 ---
