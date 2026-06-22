@@ -18,7 +18,7 @@ Markdown
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/andrejsulanskij336-pixel/tg_rotator_bot.git
+   git clone https://github.com/andrey-shulianskii94/tg_rotator_bot
 
 Install dependencies:
 pip install python-telegram-bot
@@ -40,7 +40,7 @@ Asyncio
 📞 Contact
 Telegram: @shul_ad_bot
 
-GitHub: andrejsulanskij336-pixel
+GitHub: andrey-shulianskii94
 
 
 Update README
