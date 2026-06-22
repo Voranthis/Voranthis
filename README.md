@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/⚡_Доступен_для_заказов-Свяжитесь_со_мной-00C853?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 
+### 📫 Как связаться
+
 <p align="center">
   <a href="https://t.me/shulanskij">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -13,10 +15,10 @@
     <img src="https://img.shields.io/badge/ВКонтакте-4680C2?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
   <a href="tel:+79241216337">
-    <img src="https://raw.githubusercontent.com/andrey-shulianskii94/andrey-shulianskii94/main/images/784de614b2303d23660b4db5a63f6a0.jpg" width="36" height="36" alt="MAX" style="border-radius:8px;"/>
+    <img src="https://img.shields.io/badge/MAX-FF6C37?style=for-the-badge&logo=message&logoColor=white"/>
   </a>
   <a href="https://kwork.ru/user/freizenlost">
-    <img src="https://raw.githubusercontent.com/andrey-shulianskii94/andrey-shulianskii94/main/images/1_e2nuzwzmfmeta70xhaxzqa-900x900.png" width="36" height="36" alt="Kwork" style="border-radius:8px;"/>
+    <img src="https://img.shields.io/badge/Kwork-FF6C37?style=for-the-badge&logo=kwork&logoColor=white"/>
   </a>
 </p>
 
