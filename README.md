@@ -1,86 +1,63 @@
-<h1 align="center">👋 Привет, я Андрей Шулянский</h1>
-<h3 align="center">Python-разработчик | Автоматизация и работа с данными</h3>
+# 👋 Привет, я Андрей Шулянский
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_Доступен_для_заказов-Свяжитесь_со_мной-00C853?style=for-the-badge&logo=telegram&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://t.me/shulanskij">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://vk.com/id1021388682">
-    <img src="https://img.shields.io/badge/ВКонтакте-4680C2?style=for-the-badge&logo=vk&logoColor=white"/>
-  </a>
-  <a href="tel:+79241216337">
-    <img src="https://img.shields.io/badge/MAX-2CA5E0?style=for-the-badge&logo=message&logoColor=white"/>
-  </a>
-  <a href="https://kwork.ru/user/freizenlost">
-    <img src="https://img.shields.io/badge/Kwork-2CA5E0?style=for-the-badge&logo=kwork&logoColor=white"/>
-  </a>
-</p>
+**Python-разработчик | Автоматизация и работа с данными**
 
 ---
 
-### 🚀 О себе
+## 🚀 О себе
 
 - 💻 Фрилансер с опытом коммерческой разработки
-- 🐍 Пишу на **Python 3.12+** более 1 года
-- 🔧 Работаю с Telegram API, парсингом, автоматизацией, API-интеграциями
-- 🗄️ Проектирую и работаю с базами данных (**SQLite, PostgreSQL**)
-- 📊 Обрабатываю и анализирую данные (Pandas, CSV, Excel)
-- 📚 Постоянно развиваюсь и изучаю новые инструменты
+- 🐍 Пишу на Python 3.12+ более 1 года
+- 🔧 Telegram API, парсинг, автоматизация, API-интеграции
+- 🗄️ Базы данных: SQLite, PostgreSQL
+- 📊 Обработка данных: Pandas, CSV, Excel
 - 🎯 Цель — помогать бизнесу автоматизировать процессы
 
 ---
 
-### 🛠️ Стек технологий
+## 🛠️ Стек технологий
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=flat&logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
-### 📌 Мои проекты
+## 📌 Мои проекты
 
 | Название | Описание | Стек | Ссылка |
-|----------|----------|------|--------|
-| 📢 **Telegram Rotator Bot** | Автоматическая публикация рекламы по расписанию с кнопками | Python, python-telegram-bot, asyncio | [Смотреть](https://github.com/andrey-shulianskii94/tg_rotator_bot) |
-| ⏳ *Следующий проект* | *В процессе разработки* | — | — |
+|---|---|---|---|
+| 🚀 **Nexio Freelance Bot** | Умный поиск фриланс-заказов: парсинг Telegram и ВК, классификация HOT/COLD/SPAM, GUI, Excel-экспорт | Python, Pyrogram, tkinter, APScheduler | [Смотреть](https://github.com/andrey-shulianskii94/nexio-freelance-bot) |
+| 📊 **WB СПП Парсер** | Парсер цен Wildberries с расчётом скидки СПП. Работает как Google Apps Script в таблицах | Python, Google Apps Script | Kwork |
+| 📢 **Telegram Rotator Bot** | Автоматическая публикация рекламы по расписанию с inline-кнопками | Python, python-telegram-bot, asyncio | [Смотреть](https://github.com/andrey-shulianskii94/telegram-rotator-bot) |
 
 ---
 
-### 📊 Статистика
+## 📊 Статистика
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrey-shulianskii94&show_icons=true&hide_title=true&count_private=true&theme=default" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-shulianskii94&layout=compact&theme=default" width="345"/>
-</p>
-
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=andrey-shulianskii94.andrey-shulianskii94"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrey-shulianskii94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-shulianskii94&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 🏆 Достижения
+## 🏆 Достижения
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrey-shulianskii94&theme=default&row=1&column=6&margin-w=10"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrey-shulianskii94&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-> 💡 *Открыт к сотрудничеству. Если у вас есть задача — давайте обсудим!*
+## 💡 Открыт к сотрудничеству
+
+Если у вас есть задача — давайте обсудим!
+
+[![Kwork](https://img.shields.io/badge/Kwork-Мой_профиль-FF6B35?style=flat)](https://kwork.ru/user/freizenlost)
+[![Telegram](https://img.shields.io/badge/Telegram-@avto_biznes_andrey-26A5E4?style=flat&logo=telegram)](https://t.me/avto_biznes_andrey)
